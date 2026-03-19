@@ -89,3 +89,7 @@ RESTful API’ler basit ve standart çözümler sunarken,
 GraphQL özellikle büyük ve esnek veri ihtiyaçları olan projelerde daha avantajlıdır.
 
 Projeye göre doğru yaklaşımı seçmek gerekir.
+
+---
+Endpoint-labs intern project
+
